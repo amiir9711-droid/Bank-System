@@ -1,0 +1,20 @@
+[
+    {
+        "full_name": "mariam",
+        "email": "mariam@gmail.com",
+        "password": "$2b$12$a4TbmxKfCUkWPdUFsmqa7Oy6.5UFXLB4oiR5y5CyOTPlMoLOdzmBe",
+        "national_id": "3032156186856",
+        "phone_number": "01022946438",
+        "balance": 3000,
+        "account_number": 2144819896
+    },
+    {
+        "full_name": "amr",
+        "email": "amr@gmail.com",
+        "password": "$2b$12$IMjFFk2lH3z6FipF7qvr9OcPhimflUtjPA.w56PVbNFT4BKqfDMSi",
+        "national_id": "30302191100833",
+        "phone_number": "01019603870",
+        "balance": 60,
+        "account_number": 1776219543
+    }
+]
